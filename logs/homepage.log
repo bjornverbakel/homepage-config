@@ -1,0 +1,626 @@
+[2026-01-18T16:08:54.439Z] info: kubernetes.yaml was copied to the config folder
+[2026-01-18T16:11:34.861Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:35.169Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:35.194Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:35.227Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:35.245Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:35.270Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:35.281Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:35.293Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:35.314Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:35.334Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:35.346Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:35.366Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.401Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.470Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.488Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.503Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.511Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.520Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.533Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.549Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.557Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.565Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.575Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.586Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:11:37.605Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:12:09.891Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:12:09.909Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:12.424Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:12.479Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:12.676Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:12.754Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:12.870Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:12.891Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:12.915Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:12.935Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:12.967Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:12.993Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:13.009Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:13.020Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:13.032Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:13.042Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:13.071Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:13.098Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:45.142Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:13:45.163Z] error: Host validation failed for: 192.168.2.11:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-18T16:14:13.215Z] info: docker.yaml was copied to the config folder
+[2026-01-18T16:14:13.222Z] info: services.yaml was copied to the config folder
+[2026-01-18T16:14:13.226Z] info: bookmarks.yaml was copied to the config folder
+[2026-01-18T16:14:13.228Z] info: widgets.yaml was copied to the config folder
+[2026-01-18T16:14:13.230Z] info: custom.css was copied to the config folder
+[2026-01-18T16:14:13.233Z] info: custom.js was copied to the config folder
+[2026-01-18T16:14:13.271Z] info: proxmox.yaml was copied to the config folder
+[2026-01-19T08:17:09.642Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.239Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.250Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.262Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.371Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.386Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.397Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.410Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.427Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.440Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.452Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.468Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.477Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.484Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.492Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.501Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.523Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.532Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:10.543Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.264Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.386Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.394Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.400Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.408Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.414Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.420Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.451Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.457Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.463Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.474Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.480Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.486Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.506Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.515Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.522Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.528Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.537Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.548Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:13.574Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.040Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.139Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.145Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.151Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.158Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.164Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.170Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.205Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.212Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.218Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.225Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.231Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.237Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.265Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.273Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.280Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.287Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.293Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.318Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.325Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.672Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.769Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.775Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.781Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.788Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.794Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.800Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.830Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.840Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.850Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.857Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.865Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.876Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.909Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.915Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.921Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.927Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.933Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.988Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:14.996Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.251Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.344Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.351Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.359Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.367Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.374Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.381Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.412Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.422Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.429Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.435Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.443Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.451Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.465Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.483Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.493Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.500Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.508Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.514Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:17:15.540Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:18:41.412Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:18:41.422Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:18:59.194Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:18:59.200Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:21.937Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.232Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.241Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.265Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.279Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.288Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.297Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.314Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.322Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.333Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.343Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.357Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.369Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.391Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.397Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.411Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.418Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.424Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.448Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:22.461Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:54.611Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:22:54.619Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:23:38.268Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:23:38.642Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:03.657Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.004Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.031Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.055Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.081Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.101Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.132Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.152Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.165Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.190Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.208Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.218Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.244Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.258Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.268Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.285Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.310Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.329Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.341Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:04.370Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:19.727Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:19.738Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:19.760Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.040Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.168Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.181Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.191Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.206Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.215Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.226Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.246Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.255Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.263Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.275Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.282Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.289Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.313Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.327Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.336Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.344Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.355Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.370Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:21.394Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.085Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.198Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.207Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.218Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.225Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.233Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.241Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.274Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.283Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.292Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.300Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.311Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.324Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.358Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.365Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.377Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.385Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.392Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.407Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.443Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.821Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.921Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.929Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.936Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.944Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.954Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:22.968Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.023Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.033Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.046Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.055Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.065Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.076Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.104Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.114Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.140Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.157Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.170Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.181Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:23.211Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.229Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.367Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.375Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.383Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.390Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.398Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.406Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.453Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.460Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.468Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.476Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.488Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.496Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.524Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.534Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.544Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.553Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.562Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.585Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:25.595Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:30.917Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:30.926Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T08:31:30.948Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T11:16:06.710Z] error: bad indentation of a mapping entry (13:9)
+
+ 10 | - Social:
+ 11 |     - Reddit:
+ 12 |             - icon: reddit.png  
+ 13 |         - abbr: RE
+--------------^
+ 14 |           href: https://reddit.com/
+ 15 | 
+[2026-01-19T11:16:07.656Z] error: <index> YAMLException: bad indentation of a mapping entry (13:9)
+
+ 10 | - Social:
+ 11 |     - Reddit:
+ 12 |             - icon: reddit.png  
+ 13 |         - abbr: RE
+--------------^
+ 14 |           href: https://reddit.com/
+ 15 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2026-01-19T11:16:08.419Z] error: bad indentation of a mapping entry (13:9)
+
+ 10 | - Social:
+ 11 |     - Reddit:
+ 12 |             - icon: reddit.png  
+ 13 |         - abbr: RE
+--------------^
+ 14 |           href: https://reddit.com/
+ 15 | 
+[2026-01-19T12:02:21.314Z] error: undefined
+[2026-01-19T12:02:21.373Z] error: undefined
+[2026-01-19T12:02:21.535Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/app/.next/server/pages/index.js:1:89381)
+    at Wc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-19T12:02:21.645Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/app/.next/server/pages/index.js:1:89381)
+    at Wc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-19T12:02:58.466Z] error: undefined
+[2026-01-19T12:02:58.473Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/app/.next/server/pages/index.js:1:89381)
+    at Wc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-19T12:02:58.482Z] error: undefined
+[2026-01-19T12:09:27.082Z] error: undefined
+[2026-01-19T12:09:27.122Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/app/.next/server/pages/index.js:1:89381)
+    at Wc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-19T12:09:27.155Z] error: undefined
+[2026-01-19T12:09:27.162Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/app/.next/server/pages/index.js:1:89381)
+    at Wc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-19T12:09:27.226Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/app/.next/server/pages/index.js:1:89381)
+    at Wc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-19T12:11:32.365Z] error: undefined
+[2026-01-19T12:11:32.391Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/app/.next/server/pages/index.js:1:89381)
+    at Wc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/app/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-19T12:11:32.426Z] error: undefined
+[2026-01-19T12:35:26.568Z] error: <glances> Missing Glances URL
+[2026-01-19T12:35:29.465Z] error: <glances> Missing Glances URL
+[2026-01-19T12:35:32.507Z] error: <glances> Missing Glances URL
+[2026-01-19T12:35:35.558Z] error: <glances> Missing Glances URL
+[2026-01-19T12:35:38.599Z] error: <glances> Missing Glances URL
+[2026-01-19T12:35:41.689Z] error: <glances> Missing Glances URL
+[2026-01-19T12:35:44.727Z] error: <glances> Missing Glances URL
+[2026-01-19T12:35:47.773Z] error: <glances> Missing Glances URL
+[2026-01-19T12:35:50.809Z] error: <glances> Missing Glances URL
+[2026-01-19T12:35:54.264Z] error: <glances> Missing Glances URL
+[2026-01-19T12:35:57.374Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:00.413Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:03.449Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:06.482Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:09.518Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:12.552Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:15.613Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:18.649Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:21.694Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:24.741Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:27.790Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:30.837Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:33.872Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:36.922Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:39.972Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:43.011Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:46.045Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:49.090Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:52.140Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:55.177Z] error: <glances> Missing Glances URL
+[2026-01-19T12:36:58.223Z] error: <glances> Missing Glances URL
+[2026-01-19T12:37:01.260Z] error: <glances> Missing Glances URL
+[2026-01-19T12:37:04.300Z] error: <glances> Missing Glances URL
+[2026-01-19T12:37:07.343Z] error: <glances> Missing Glances URL
+[2026-01-19T12:37:10.404Z] error: <glances> Missing Glances URL
+[2026-01-19T12:37:13.468Z] error: <glances> Missing Glances URL
+[2026-01-19T12:37:16.504Z] error: <glances> Missing Glances URL
+[2026-01-19T12:37:19.549Z] error: <glances> Missing Glances URL
+[2026-01-19T12:37:22.611Z] error: <glances> Missing Glances URL
+[2026-01-19T12:37:25.669Z] error: <glances> Missing Glances URL
+[2026-01-19T12:37:28.706Z] error: <glances> Missing Glances URL
+[2026-01-19T12:37:31.755Z] error: <glances> Missing Glances URL
+[2026-01-19T12:37:34.789Z] error: <glances> Missing Glances URL
+[2026-01-19T12:41:23.806Z] warn: <resources> Drive not found for target: /data
+[2026-01-19T12:41:26.618Z] warn: <resources> Drive not found for target: /data
+[2026-01-19T12:41:29.716Z] warn: <resources> Drive not found for target: /data
+[2026-01-19T12:41:32.828Z] warn: <resources> Drive not found for target: /data
+[2026-01-19T12:41:35.958Z] warn: <resources> Drive not found for target: /data
+[2026-01-19T12:51:09.917Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-01-19T12:51:09.919Z] error: end of the stream or a document separator is expected (7:1)
+
+ 4 |       timeStyle: short
+ 5 |       hourCycle: h23
+ 6 | - resources:
+ 7 | label: CPU
+-----^
+ 8 |     cpu: true
+ 9 |     cputemp: true
+[2026-01-19T12:51:12.503Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2026-01-19T12:51:12.504Z] error: end of the stream or a document separator is expected (7:1)
+
+ 4 |       timeStyle: short
+ 5 |       hourCycle: h23
+ 6 | - resources:
+ 7 | label: CPU
+-----^
+ 8 |     cpu: true
+ 9 |     cputemp: true
+[2026-01-19T13:34:11.923Z] error: undefined
+[2026-01-19T13:34:14.870Z] error: undefined
+[2026-01-19T13:34:24.915Z] error: undefined
+[2026-01-19T13:40:48.484Z] error: <httpProxy> Error calling https://api.open-meteo.com/v1/forecast...
+[2026-01-19T13:40:48.534Z] error: <httpProxy> [ 500, [AggregateError: ] { code: 'ETIMEDOUT' } ]
+[2026-01-19T13:40:49.051Z] error: <httpProxy> Error calling https://api.open-meteo.com/v1/forecast...
+[2026-01-19T13:40:49.064Z] error: <httpProxy> [ 500, [AggregateError: ] { code: 'ETIMEDOUT' } ]
+[2026-01-19T14:04:17.075Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.245Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.355Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.377Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.398Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.428Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.452Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.466Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.484Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.511Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.531Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.548Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.565Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.573Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.589Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.605Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.614Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.631Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.640Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.651Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.668Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.691Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.700Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.712Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.721Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:04:17.730Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.201Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.264Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.450Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.679Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.703Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.724Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.758Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.786Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.803Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.821Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.837Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.849Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.902Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.922Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:11.956Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.033Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.138Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.151Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.183Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.192Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.201Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.209Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.243Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.257Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.269Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.280Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.289Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:05:13.322Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:28.303Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:28.392Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:30.690Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.521Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.705Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.724Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.737Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.752Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.766Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.777Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.801Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.810Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.828Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.859Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.869Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:06:31.899Z] error: Host validation failed for: 100.111.212.87:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-01-19T14:19:21.551Z] error: <credentialedProxyHandler> HTTP Error 401 calling https://192.168.2.11:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-01-19T15:12:07.616Z] error: <httpProxy> Error calling http://192.168.2.11:8080/api/v2/torrents/info...
+[2026-01-19T15:12:07.656Z] error: <httpProxy> [ 500, [Error: socket hang up] { code: 'ECONNRESET' } ]
+[2026-01-19T15:12:07.660Z] error: <qbittorrentProxyHandler> HTTP 500 getting data from qBittorrent.  Data: { error: [Object] }
+[2026-01-19T15:12:10.091Z] error: <httpProxy> Error calling http://192.168.2.11:8080/api/v2/torrents/info...
+[2026-01-19T15:12:10.102Z] error: <httpProxy> [ 500, [Error: socket hang up] { code: 'ECONNRESET' } ]
+[2026-01-19T15:12:10.105Z] error: <qbittorrentProxyHandler> HTTP 500 getting data from qBittorrent.  Data: { error: [Object] }
+[2026-01-19T15:12:13.705Z] error: <httpProxy> Error calling http://192.168.2.11:8080/api/v2/torrents/info...
+[2026-01-19T15:12:13.710Z] error: <httpProxy> [
+  500,
+  [Error: read ECONNRESET] {
+    errno: -104,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  }
+]
+[2026-01-19T15:12:13.713Z] error: <qbittorrentProxyHandler> HTTP 500 getting data from qBittorrent.  Data: { error: [Object] }
+[2026-01-19T15:12:31.889Z] error: <httpProxy> Error calling http://192.168.2.11:8080/api/v2/torrents/info...
+[2026-01-19T15:12:31.894Z] error: <httpProxy> [
+  500,
+  [Error: read ECONNRESET] {
+    errno: -104,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  }
+]
+[2026-01-19T15:12:31.897Z] error: <qbittorrentProxyHandler> HTTP 500 getting data from qBittorrent.  Data: { error: [Object] }
+[2026-01-19T15:12:42.706Z] error: <httpProxy> Error calling http://192.168.2.11:8080/api/v2/torrents/info...
+[2026-01-19T15:12:42.712Z] error: <httpProxy> [
+  500,
+  [Error: read ECONNRESET] {
+    errno: -104,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  }
+]
+[2026-01-19T15:12:42.715Z] error: <qbittorrentProxyHandler> HTTP 500 getting data from qBittorrent.  Data: { error: [Object] }
+[2026-01-19T15:13:58.500Z] error: <httpProxy> Error calling http://192.168.2.11:8080/api/v2/torrents/info...
+[2026-01-19T15:13:58.523Z] error: <httpProxy> [ 500, [Error: socket hang up] { code: 'ECONNRESET' } ]
+[2026-01-19T15:13:58.525Z] error: <qbittorrentProxyHandler> HTTP 500 getting data from qBittorrent.  Data: { error: [Object] }
+[2026-01-19T15:16:17.043Z] error: <httpProxy> Error calling http://192.168.2.11:8080/api/v2/torrents/info...
+[2026-01-19T15:16:17.177Z] error: <httpProxy> [
+  500,
+  [Error: read ECONNRESET] {
+    errno: -104,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  }
+]
+[2026-01-19T15:16:17.180Z] error: <qbittorrentProxyHandler> HTTP 500 getting data from qBittorrent.  Data: { error: [Object] }
+[2026-01-19T15:16:22.418Z] error: <httpProxy> Error calling http://192.168.2.11:8080/api/v2/torrents/info...
+[2026-01-19T15:16:22.435Z] error: <httpProxy> [ 500, [Error: socket hang up] { code: 'ECONNRESET' } ]
+[2026-01-19T15:16:22.442Z] error: <qbittorrentProxyHandler> HTTP 500 getting data from qBittorrent.  Data: { error: [Object] }
+[2026-01-19T15:16:33.074Z] error: <httpProxy> Error calling http://192.168.2.11:8080/api/v2/torrents/info...
+[2026-01-19T15:16:33.087Z] error: <httpProxy> [
+  500,
+  [Error: read ECONNRESET] {
+    errno: -104,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  }
+]
+[2026-01-19T15:16:33.091Z] error: <qbittorrentProxyHandler> HTTP 500 getting data from qBittorrent.  Data: { error: [Object] }
+[2026-01-19T15:16:38.291Z] error: <httpProxy> Error calling http://192.168.2.11:8080/api/v2/torrents/info...
+[2026-01-19T15:16:38.295Z] error: <httpProxy> [
+  500,
+  [Error: read ECONNRESET] {
+    errno: -104,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  }
+]
+[2026-01-19T15:16:38.301Z] error: <qbittorrentProxyHandler> HTTP 500 getting data from qBittorrent.  Data: { error: [Object] }
