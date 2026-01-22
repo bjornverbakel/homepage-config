@@ -22,7 +22,8 @@
         widget:
           type: pihole
           url: http://{{HOMEPAGE_VAR_HOST_IP}}:80
-          key: {{HOMEPAGE_VAR_PIHOLE_PASSWORD}}
+          version: 6
+          key: {{HOMEPAGE_VAR_PIHOLE_APP_PASSWORD}}
 
 - Media Stack:
     - Jellyfin:
