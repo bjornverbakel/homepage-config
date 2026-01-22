@@ -1,67 +1,32 @@
-- Home Server:
-    - Pi-hole:
-        icon: pi-hole.png
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:80/admin
-        description: Ad blocking
-        server: &local my-docker
-        container: pihole
-        widget:
-          type: pihole
-          url: http://{{HOMEPAGE_VAR_HOST_IP}}:80
-          key: {{HOMEPAGE_VAR_PIHOLE_PASSWORD}} 
-
+- Services:
     - Home Assistant:
-        icon: home-assistant.png
+        icon: home-assistant.svg
         href: http://{{HOMEPAGE_VAR_HOST_IP}}:8123
         description: Smart Home
-        server: *local
-        container: homeassistant
+        server: &local my-docker
+        container: home-assistant
 
     - Seafile:
-        icon: seafile.png
+        icon: seafile.svg
         href: http://{{HOMEPAGE_VAR_HOST_IP}}:8000
         description: Cloud Storage
         server: *local
         container: seafile
 
-- Utilities:
-    - Portainer:
-        icon: portainer.png
-        href: https://{{HOMEPAGE_VAR_HOST_IP}}:9443
-        description: Docker Management
+    - Pi-hole:
+        icon: pi-hole.svg
+        href: http://{{HOMEPAGE_VAR_HOST_IP}}:80/admin
+        description: Ad blocking
         server: *local
-        container: portainer
+        container: pihole
         widget:
-          type: portainer
-          url: https://{{HOMEPAGE_VAR_HOST_IP}}:9443
-          env: 3
-          key: {{HOMEPAGE_VAR_PORTAINER_ACCESS_KEY}}
+          type: pihole
+          url: http://{{HOMEPAGE_VAR_HOST_IP}}:80
+          key: {{HOMEPAGE_VAR_PIHOLE_PASSWORD}}
 
-    - Gluetun:
-        icon: gluetun.png
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:8001
-        description: VPN Tunnel
-        container: gluetun
-        widget:
-            type: gluetun
-            url: http://{{HOMEPAGE_VAR_HOST_IP}}:8001
-
-    - Flaresolverr:
-        icon: flaresolverr.png
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:8191
-        description: Cloudflare Proxy
-        container: flaresolverr
-        # No specific widget, but will show UP/DOWN status automatically
-    - Code Server:
-        icon: visual-studio-code.png
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:8443
-        description: VS Code in Browser
-        server: *local
-        container: code_server
-
-- Media:
+- Media Stack:
     - Jellyfin:
-        icon: jellyfin.png
+        icon: jellyfin.svg
         href: http://{{HOMEPAGE_VAR_HOST_IP}}:8096
         description: Media Streaming
         server: *local
@@ -71,14 +36,14 @@
           url: http://{{HOMEPAGE_VAR_HOST_IP}}:8096
           key: {{HOMEPAGE_VAR_JELLYFIN_API_KEY}}
           enableBlocks: true
-          enableNowPlaying: true
+          enableNowPlaying: false
           enableUser: true
-          enableMediaControl: true
+          enableMediaControl: false
           showEpisodeNumber: true
           expandOneStreamToTwoRows: true
-
+    
     - qBittorrent:
-        icon: qbittorrent.png
+        icon: qbittorrent.svg
         href: http://{{HOMEPAGE_VAR_HOST_IP}}:8080
         description: Torrent Downloader
         server: *local
@@ -90,23 +55,59 @@
           password: {{HOMEPAGE_VAR_QBITTORRENT_PASSWORD}}
 
     - Radarr:
-        icon: radarr.png
+        icon: radarr.svg
         href: http://{{HOMEPAGE_VAR_HOST_IP}}:7878
         description: Movie Manager
         server: *local
         container: radarr
         widget:
-          type: radarr
-          url: http://{{HOMEPAGE_VAR_HOST_IP}}:7878
-          key: {{HOMEPAGE_VAR_RADARR_API_KEY}}
+            type: radarr
+            url: http://{{HOMEPAGE_VAR_HOST_IP}}:7878
+            key: {{HOMEPAGE_VAR_RADARR_API_KEY}}
 
     - Prowlarr:
-        icon: prowlarr.png
+        icon: prowlarr.svg
         href: http://{{HOMEPAGE_VAR_HOST_IP}}:9696
         description: Indexer Manager
         server: *local
         container: prowlarr
         widget:
-          type: prowlarr
-          url: http://{{HOMEPAGE_VAR_HOST_IP}}:9696/
-          key: {{HOMEPAGE_VAR_PROWLARR_API_KEY}}
+            type: prowlarr
+            url: http://{{HOMEPAGE_VAR_HOST_IP}}:9696/
+            key: {{HOMEPAGE_VAR_PROWLARR_API_KEY}}
+
+- Utilities:
+    - What's Up Docker:
+        icon: whats-up-docker.svg
+        href: http://{{HOMEPAGE_VAR_HOST_IP}}:3001
+        description: Container Updates
+        server: *local
+        container: wud
+        widget:
+            type: whatsupdocker
+            url: http://{{HOMEPAGE_VAR_HOST_IP}}:3001
+            label: Updates
+            username: {{HOMEPAGE_VAR_WUD_USERNAME}}
+            password: {{HOMEPAGE_VAR_WUD_PASSWORD}}
+
+    - Portainer:
+        icon: portainer.svg
+        href: https://{{HOMEPAGE_VAR_HOST_IP}}:9443
+        description: Docker Manager
+        server: *local
+        container: portainer
+        widget:
+          type: portainer
+          url: https://{{HOMEPAGE_VAR_HOST_IP}}:9443
+          env: 3
+          key: {{HOMEPAGE_VAR_PORTAINER_ACCESS_KEY}}
+
+    - Gluetun:
+        icon: gluetun.svg
+        href: http://{{HOMEPAGE_VAR_HOST_IP}}:8001
+        description: VPN Tunnel
+        server: *local
+        container: gluetun
+        widget:
+            type: gluetun
+            url: http://{{HOMEPAGE_VAR_HOST_IP}}:8001

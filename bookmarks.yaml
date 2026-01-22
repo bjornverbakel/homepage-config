@@ -4,35 +4,43 @@
 
 - Development:
     - Github:
-        - icon: github-light.png
+        - icon: github-light.svg
           abbr: GH
           href: https://github.com/
     - Vercel:
-        - icon: vercel.png
+        - icon: vercel.svg
           abbr: VC
           href: https://vercel.com/
     - Supabase:
-        - icon: supabase.png
+        - icon: supabase.svg
           abbr: SB
           href: https://app.supabase.com/
     - Cloudflare:
-        - icon: cloudflare.png
+        - icon: cloudflare.svg
           abbr: CF
           href: https://dash.cloudflare.com/
     - Vuetify:
-        - icon: /icons/custom-vuetify.svg
+        - icon: /icons/vuetify.svg
           abbr: VU
           href: https://vuetifyjs.com/en/
 
-- Social:
+- Quick Links:
     - YouTube:
-        - icon: youtube.png
+        - icon: youtube.svg
           abbr: YT
           href: https://youtube.com/
     - Reddit:
-        - icon: reddit.png
+        - icon: reddit.svg
           abbr: RE
           href: https://reddit.com/
+    - WLED:
+        - icon: wled.webp
+          abbr: WLED
+          href: http://wled.local/
+    - Apollo:
+        - icon: icons/apollo.svg
+          abbr: AP
+          href: https://localhost:47990/
 
 - Projects:
     - Portfolio:
