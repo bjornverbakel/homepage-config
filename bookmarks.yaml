@@ -1,7 +1,3 @@
----
-# For configuration options and examples, please see:
-# https://gethomepage.dev/configs/bookmarks
-
 - Development:
     - Github:
         - icon: github-light.svg
@@ -20,7 +16,7 @@
           abbr: CF
           href: https://dash.cloudflare.com/
     - Vuetify:
-        - icon: /icons/vuetify.svg
+        - icon: /icons/vuetify-logo.svg
           abbr: VU
           href: https://vuetifyjs.com/en/
 
@@ -38,7 +34,7 @@
           abbr: WLED
           href: http://wled.local/
     - Apollo:
-        - icon: icons/apollo.svg
+        - icon: /icons/apollo-logo.svg
           abbr: AP
           href: https://localhost:47990/
 
