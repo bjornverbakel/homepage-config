@@ -6,6 +6,13 @@
         server: &local my-docker
         container: home-assistant
 
+    - ESPHome:
+        icon: esphome.svg
+        href: http://{{HOMEPAGE_VAR_HOST_IP}}:6052
+        description: ESP32/ESP8266 Firmware
+        server: *local
+        container: esphome
+
     - Seafile:
         icon: seafile.svg
         href: http://{{HOMEPAGE_VAR_HOST_IP}}:8000
@@ -25,7 +32,7 @@
           version: 6
           key: {{HOMEPAGE_VAR_PIHOLE_APP_PASSWORD}}
 
-- Media Stack:
+- Media:
     - Jellyfin:
         icon: jellyfin.svg
         href: http://{{HOMEPAGE_VAR_HOST_IP}}:8096
@@ -65,6 +72,18 @@
             type: radarr
             url: http://{{HOMEPAGE_VAR_HOST_IP}}:7878
             key: {{HOMEPAGE_VAR_RADARR_API_KEY}}
+
+    - Sonarr:
+        icon: sonarr.svg
+        href: http://{{HOMEPAGE_VAR_HOST_IP}}:8989
+        description: Series Manager
+        server: *local
+        container: sonarr
+        widget:
+            type: sonarr
+            url: http://{{HOMEPAGE_VAR_HOST_IP}}:8989
+            key: {{HOMEPAGE_VAR_SONARR_API_KEY}}
+            enableQueue: true
 
     - Prowlarr:
         icon: prowlarr.svg
