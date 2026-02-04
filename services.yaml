@@ -131,3 +131,16 @@
         widget:
             type: gluetun
             url: http://{{HOMEPAGE_VAR_HOST_IP}}:8001
+
+    - WireGuard:
+        icon: wireguard.svg
+        href: http://{{HOMEPAGE_VAR_HOST_IP}}:51821
+        description: VPN Server
+        server: *local
+        container: wireguard
+        # widget:
+        #     type: wgeasy
+        #     url: http://{{HOMEPAGE_VAR_HOST_IP}}:51821
+        #     version: 2
+        #     username: admin
+        #     password: {{HOMEPAGE_VAR_WIREGUARD_PASSWORD}}
