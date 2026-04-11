@@ -1,64 +1,102 @@
+- Glances:
+    - Processes:
+        widget:
+            type: glances
+            url: http://{{HOMEPAGE_VAR_HOST_IP}}:61208
+            version: 4
+            metric: process
+
+    - RAM:
+        widget:
+            type: glances
+            url: http://{{HOMEPAGE_VAR_HOST_IP}}:61208
+            metric: memory
+            version: 4
+
+    - CPU:
+        href: https://glances.home.bjornverbakel.nl
+        widget:
+            type: glances
+            url: http://{{HOMEPAGE_VAR_HOST_IP}}:61208
+            metric: cpu
+            version: 4
+
 - Services:
     - Home Assistant:
         icon: home-assistant.svg
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:8123
+        href: https://ha.home.bjornverbakel.nl
         description: Smart Home
         server: &local my-docker
         container: home-assistant
 
     - ESPHome:
         icon: esphome.svg
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:6052
+        href: https://esphome.home.bjornverbakel.nl
         description: ESP32/ESP8266 Firmware
         server: *local
         container: esphome
 
-    - Seafile:
-        icon: seafile.svg
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:8000
+    - Nextcloud:
+        icon: nextcloud.svg
+        href: https://nextcloud.home.bjornverbakel.nl
         description: Cloud Storage
         server: *local
-        container: seafile
+        container: nextcloud
+        # widget:
+        #     type: nextcloud
+        #     url: http://{{HOMEPAGE_VAR_HOST_IP}}:8002
+        #     username: {{HOMEPAGE_VAR_NEXTCLOUD_USERNAME}}
+        #     password: {{HOMEPAGE_VAR_NEXTCLOUD_PASSWORD}}
 
     - Pi-hole:
         icon: pi-hole.svg
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:80/admin
+        href: https://pihole.home.bjornverbakel.nl/admin
         description: Ad blocking
         server: *local
         container: pihole
         widget:
-          type: pihole
-          url: http://{{HOMEPAGE_VAR_HOST_IP}}:80
-          version: 6
-          key: {{HOMEPAGE_VAR_PIHOLE_APP_PASSWORD}}
+            type: pihole
+            url: http://{{HOMEPAGE_VAR_HOST_IP}}:8080
+            version: 6
+            key: {{HOMEPAGE_VAR_PIHOLE_APP_PASSWORD}}
 
 - Media:
     - Jellyfin:
         icon: jellyfin.svg
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:8096
+        href: https://jellyfin.home.bjornverbakel.nl
         description: Media Streaming
         server: *local
         container: jellyfin
         widget:
-          type: jellyfin
-          url: http://{{HOMEPAGE_VAR_HOST_IP}}:8096
-          key: {{HOMEPAGE_VAR_JELLYFIN_API_KEY}}
-          enableBlocks: true
-          enableNowPlaying: false
-          enableUser: true
-          enableMediaControl: false
-          showEpisodeNumber: true
-          expandOneStreamToTwoRows: true
+            fields: ["movies", "series", "episodes"]
+            type: jellyfin
+            url: http://jellyfin:8096
+            key: {{HOMEPAGE_VAR_JELLYFIN_API_KEY}}
+            enableBlocks: true
+            enableNowPlaying: false
+            enableUser: true
+            enableMediaControl: false
+
+    - Seerr:
+        icon: seerr.svg
+        href: https://seerr.home.bjornverbakel.nl
+        description: Media Requests
+        server: *local
+        container: seerr
+        widget:
+            type: seerr
+            url: http://seerr:5055
+            key: {{HOMEPAGE_VAR_SEERR_API_KEY}}
     
     - qBittorrent:
         icon: qbittorrent.svg
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:8080
-        description: Torrent Downloader
+        href: https://qbt.home.bjornverbakel.nl
+        description: Torrent Client
         server: *local
         container: qbittorrent
         widget:
           type: qbittorrent
-          url: http://{{HOMEPAGE_VAR_HOST_IP}}:8080
+          url: http://gluetun:8080
           username: {{HOMEPAGE_VAR_QBITTORRENT_USERNAME}}
           password: {{HOMEPAGE_VAR_QBITTORRENT_PASSWORD}}
 
@@ -75,19 +113,29 @@
 
     - Sonarr:
         icon: sonarr.svg
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:8989
+        href: https://sonarr.home.bjornverbakel.nl
         description: Series Manager
         server: *local
         container: sonarr
-        widget:
-            type: sonarr
-            url: http://{{HOMEPAGE_VAR_HOST_IP}}:8989
-            key: {{HOMEPAGE_VAR_SONARR_API_KEY}}
-            enableQueue: true
+        # widget:
+        #     type: sonarr
+        #     url: http://{{HOMEPAGE_VAR_HOST_IP}}:8989
+        #     key: {{HOMEPAGE_VAR_SONARR_API_KEY}}
+
+    - Radarr:
+        icon: radarr.svg
+        href: https://radarr.home.bjornverbakel.nl
+        description: Movie Manager
+        server: *local
+        container: radarr
+        # widget:
+        #     type: radarr
+        #     url: http://{{HOMEPAGE_VAR_HOST_IP}}:7878
+        #     key: {{HOMEPAGE_VAR_RADARR_API_KEY}}
 
     - Prowlarr:
         icon: prowlarr.svg
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:9696
+        href: https://prowlarr.home.bjornverbakel.nl
         description: Indexer Manager
         server: *local
         container: prowlarr
@@ -99,38 +147,38 @@
 - Utilities:
     - What's Up Docker:
         icon: whats-up-docker.svg
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:3001
+        href: https://wud.home.bjornverbakel.nl
         description: Container Updates
         server: *local
         container: wud
         widget:
             type: whatsupdocker
-            url: http://{{HOMEPAGE_VAR_HOST_IP}}:3001
+            url: http://wud:3000
             label: Updates
             username: {{HOMEPAGE_VAR_WUD_USERNAME}}
             password: {{HOMEPAGE_VAR_WUD_PASSWORD}}
 
     - Portainer:
         icon: portainer.svg
-        href: https://{{HOMEPAGE_VAR_HOST_IP}}:9443
+        href: https://portainer.home.bjornverbakel.nl
         description: Docker Manager
         server: *local
         container: portainer
         widget:
           type: portainer
-          url: https://{{HOMEPAGE_VAR_HOST_IP}}:9443
+          url: https://portainer:9443
           env: 3
           key: {{HOMEPAGE_VAR_PORTAINER_ACCESS_KEY}}
 
     - Gluetun:
         icon: gluetun.svg
-        href: http://{{HOMEPAGE_VAR_HOST_IP}}:8001
-        description: VPN Tunnel
+        href: https://gluetun.home.bjornverbakel.nl
+        description: VPN Tunnel (qBittorrent)
         server: *local
         container: gluetun
         widget:
             type: gluetun
-            url: http://{{HOMEPAGE_VAR_HOST_IP}}:8001
+            url: http://gluetun:8000
 
     - WireGuard:
         icon: wireguard.svg

@@ -1,13 +1,30 @@
 title: Bjorn's Homelab
 favicon: https://www.google.com/favicon.ico
 theme: dark
-color: slate
+color: red
 language: en
 target: _blank
 quicklaunch:
-  searchDescriptions: true
-  hideInternetSearch: false
-  showSearchSuggestions: true
-  hideVisitURL: false
+    searchDescriptions: true
+    hideInternetSearch: false
+    showSearchSuggestions: true
 statusStyle: "dot"
 disableIndexing: true
+disableCollapse: true
+iconStyle: theme
+headerStyle: boxed
+            
+layout:
+    Glances:
+        header: false
+        style: row
+        columns: 3
+
+    # Media:
+    #     icon: mdi-movie-open
+
+    # Services:
+    #     icon: mdi-home-automation
+    
+    # Utilities:
+    #     icon: mdi-tools

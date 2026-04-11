@@ -6,7 +6,7 @@
     disk: /app/config
 
 - search:
-    provider: google
+    provider: duckduckgo
     focus: false
     showSearchSuggestions: true
     target: _blank

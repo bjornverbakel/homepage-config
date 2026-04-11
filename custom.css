@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap');
+
+@font-face {
+    font-family: 'Perfect-DOS';
+    src: url('/fonts/Perfect-DOS-VGA-437-Win.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --bg-color: 18, 18, 18 !important;
+    --primary-color: 177, 50, 18 !important; 
+    --white-color: 255, 255, 255 !important;
+
+    /* ── CRT controls (set any to 0 to disable that effect) ── */
+    --crt-scanline-opacity: 0.20;   /* horizontal scanline opacity */
+    --crt-pixel-opacity:    0.06;   /* RGB pixel grid opacity */
+    --crt-flicker-max:      0.30;   /* peak flicker opacity */
+    --crt-flicker-speed:    0.15s;  /* flicker animation speed */
+    --crt-color-sep:        0.80;      /* color separation*/
+}
+
+body, h1, h2, h3, h4, h5, h6, p, span, a {
+    animation: textShadow 1.6s infinite;
+}
+
+* {
+    font-family: 'Perfect-DOS', 'JetBrains Mono', 'Courier New', monospace !important;
+    letter-spacing: 0.04em;
+    
+}
+
+#__next, body, html {
+	background-color: rgb(var(--bg-color));
+}
+
+#services{
+    margin: 0;
+    gap: 20px;
+}
+
+.services-group {
+    border: 2px solid rgb(var(--primary-color)) !important;
+    border-top: 20px solid rgb(var(--primary-color)) !important;
+    padding: 0;
+}
+
+.services-list > .service:last-child > .service-card {
+    margin-bottom: 0 !important;
+}
+
+
+.services-group>button {
+    background-color:rgb(var(--primary-color)) !important;
+    justify-content: center;
+    width: fit-content;
+    text-transform: uppercase;
+    padding: 0px 30px;
+    margin: 12px auto 0 auto;
+}
+
+.services-group h2  {
+    color: black;
+}
+
+.service-group-icon>div{
+    background: black !important;
+}
+
+/* Cards */
+.service-card, #information-widgets {
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    /* background-color: none !important; */
+}
+
+/* ── CRT: screen-door (scanlines + RGB pixel grid) ── */
+
+
+body::before {
+    content: " ";
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, var(--crt-scanline-opacity)) 50%),
+                linear-gradient(90deg, rgba(255, 0, 0, var(--crt-pixel-opacity)), rgba(0, 255, 0, calc(var(--crt-pixel-opacity) / 3)), rgba(0, 0, 255, var(--crt-pixel-opacity)));
+    background-size: 100% 2px, 3px 100%;
+    z-index: 9998;
+    pointer-events: none;
+}
+
+/* ── CRT: flicker ── */
+@keyframes flicker {
+    0%   { opacity: calc(var(--crt-flicker-max) * 0.29); }
+    5%   { opacity: calc(var(--crt-flicker-max) * 0.36); }
+    10%  { opacity: calc(var(--crt-flicker-max) * 0.25); }
+    15%  { opacity: calc(var(--crt-flicker-max) * 0.94); }
+    20%  { opacity: calc(var(--crt-flicker-max) * 0.19); }
+    25%  { opacity: calc(var(--crt-flicker-max) * 0.87); }
+    30%  { opacity: calc(var(--crt-flicker-max) * 0.68); }
+    35%  { opacity: calc(var(--crt-flicker-max) * 0.71); }
+    40%  { opacity: calc(var(--crt-flicker-max) * 0.28); }
+    45%  { opacity: calc(var(--crt-flicker-max) * 0.88); }
+    50%  { opacity: calc(var(--crt-flicker-max) * 1.00); }
+    55%  { opacity: calc(var(--crt-flicker-max) * 0.09); }
+    60%  { opacity: calc(var(--crt-flicker-max) * 0.21); }
+    65%  { opacity: calc(var(--crt-flicker-max) * 0.75); }
+    70%  { opacity: calc(var(--crt-flicker-max) * 0.56); }
+    75%  { opacity: calc(var(--crt-flicker-max) * 0.39); }
+    80%  { opacity: calc(var(--crt-flicker-max) * 0.74); }
+    85%  { opacity: calc(var(--crt-flicker-max) * 0.73); }
+    90%  { opacity: calc(var(--crt-flicker-max) * 0.73); }
+    95%  { opacity: calc(var(--crt-flicker-max) * 0.38); }
+    100% { opacity: calc(var(--crt-flicker-max) * 0.25); }
+}
+
+body::after {
+    content: " ";
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(18, 16, 16, 0.1);
+    opacity: 0;
+    z-index: 9999;
+    pointer-events: none;
+    animation: flicker var(--crt-flicker-speed) infinite;
+}
+
+/* ── CRT: color separation on text ── */
+@keyframes textShadow {
+    0%   { text-shadow:  0.4389924193px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -0.4389924193px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    5%   { text-shadow:  2.7928974010px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -2.7928974010px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    10%  { text-shadow:  0.0295627584px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -0.0295627584px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    15%  { text-shadow:  0.4021853855px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -0.4021853855px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    20%  { text-shadow:  3.4794037899px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -3.4794037899px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    25%  { text-shadow:  1.6125630401px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -1.6125630401px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    30%  { text-shadow:  0.7015590085px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -0.7015590085px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    35%  { text-shadow:  3.8969140476px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -3.8969140476px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    40%  { text-shadow:  3.8709056148px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -3.8709056148px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    45%  { text-shadow:  2.2310569633px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -2.2310569633px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    50%  { text-shadow:  0.0808429041px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -0.0808429041px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    55%  { text-shadow:  2.3758461067px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -2.3758461067px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    60%  { text-shadow:  2.2021930510px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -2.2021930510px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    65%  { text-shadow:  2.8638780614px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -2.8638780614px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    70%  { text-shadow:  0.4887402515px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -0.4887402515px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    75%  { text-shadow:  1.8948491305px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -1.8948491305px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    80%  { text-shadow:  0.0833037308px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -0.0833037308px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    85%  { text-shadow:  0.0976982725px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -0.0976982725px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    90%  { text-shadow:  3.4433397614px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -3.4433397614px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    95%  { text-shadow:  2.1841838852px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -2.1841838852px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+    100% { text-shadow:  2.6208764473px 0 1px rgba(0,30,255,calc(0.5 * var(--crt-color-sep))),  -2.6208764473px 0 1px rgba(255,0,80,calc(0.3 * var(--crt-color-sep))), 0 0 3px; }
+}
