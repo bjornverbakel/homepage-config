@@ -22,6 +22,17 @@
             version: 4
 
 - Services:
+    - Proxmox:
+        icon: proxmox.svg
+        href: https://proxmox.home.bjornverbakel.nl
+        description: Hypervisor
+        widget:
+            type: proxmox
+            url: https://192.168.2.200:8006
+            username: {{HOMEPAGE_VAR_PROXMOX_TOKEN_ID}}
+            password: {{HOMEPAGE_VAR_PROXMOX_TOKEN_SECRET}}
+            node: pve-home
+
     - Home Assistant:
         icon: home-assistant.svg
         href: https://ha.home.bjornverbakel.nl
@@ -48,17 +59,17 @@
         #     username: {{HOMEPAGE_VAR_NEXTCLOUD_USERNAME}}
         #     password: {{HOMEPAGE_VAR_NEXTCLOUD_PASSWORD}}
 
-    - Pi-hole:
-        icon: pi-hole.svg
-        href: https://pihole.home.bjornverbakel.nl/admin
-        description: Ad blocking
+    - AdGuard Home:
+        icon: adguard-home.svg
+        href: https://adguard.home.bjornverbakel.nl
+        description: Ad Blocking
         server: *local
-        container: pihole
+        container: adguardhome
         widget:
-            type: pihole
-            url: http://{{HOMEPAGE_VAR_HOST_IP}}:8080
-            version: 6
-            key: {{HOMEPAGE_VAR_PIHOLE_APP_PASSWORD}}
+            type: adguard
+            url: http://{{HOMEPAGE_VAR_HOST_IP}}:3000
+            username: {{HOMEPAGE_VAR_ADGUARD_USERNAME}}
+            password: {{HOMEPAGE_VAR_ADGUARD_PASSWORD}}
 
 - Media:
     - Jellyfin:
@@ -168,3 +179,14 @@
         widget:
             type: gluetun
             url: http://gluetun:8000
+
+    - Tailscale:
+        icon: tailscale.svg
+        href: https://login.tailscale.com/admin/machines
+        description: Remote Access
+        server: *local
+        container: tailscale
+        widget:
+            type: tailscale
+            deviceid: {{HOMEPAGE_VAR_TAILSCALE_DEVICE_ID}}
+            key: {{HOMEPAGE_VAR_TAILSCALE_API_KEY}}
