@@ -38,19 +38,15 @@
         href: https://ha.home.bjornverbakel.nl
         description: Smart Home
         server: &local my-docker
-        container: home-assistant
-
-    - ESPHome:
-        icon: esphome.svg
-        href: https://esphome.home.bjornverbakel.nl
-        description: ESP32/ESP8266 Firmware
-        server: *local
-        container: esphome
+        # widget:
+        #     type: homeassistant
+        #     url: http://192.168.2.13:8123
+        #     key: {{HOMEPAGE_VAR_LONG_LIVED_ACCESS_TOKEN}}
 
     - Nextcloud:
         icon: nextcloud.svg
         href: https://nextcloud.home.bjornverbakel.nl
-        description: Cloud Storage
+        description: Cloud Environment
         server: *local
         container: nextcloud
         # widget:
