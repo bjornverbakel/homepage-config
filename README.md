@@ -2,6 +2,9 @@
 
 This repository contains the configuration files for my **[GetHomepage](https://gethomepage.dev/)** dashboard.
 
+## Screenshot
+![Screenshot](https://raw.githubusercontent.com/bjornverbakel/homepage-config/73354b2f402707a0f09e3b590f0f4beac9f948a0/img/screenshot.png)
+
 ## Configuration Files
 
 | File | Purpose |
