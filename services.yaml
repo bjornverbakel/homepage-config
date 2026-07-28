@@ -129,6 +129,17 @@
         #     url: http://{{HOMEPAGE_VAR_HOST_IP}}:7878
         #     key: {{HOMEPAGE_VAR_RADARR_API_KEY}}
 
+    - Lidarr:
+        icon: lidarr.svg
+        href: https://lidarr.home.bjornverbakel.nl
+        description: Music Manager
+        server: *local
+        container: lidarr
+        # widget:
+        #     type: lidarr
+        #     url: http://lidarr:8686
+        #     key: {{HOMEPAGE_VAR_LIDARR_API_KEY}}
+
     - Prowlarr:
         icon: prowlarr.svg
         href: https://prowlarr.home.bjornverbakel.nl
